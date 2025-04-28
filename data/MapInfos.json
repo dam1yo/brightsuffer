@@ -4,5 +4,6 @@ null,
 {"id":2,"expanded":false,"name":"GATE","order":1,"parentId":0,"scrollX":1259.2727272727273,"scrollY":738.5454545454545},
 {"id":3,"expanded":false,"name":"SCHOOLFIELD","order":3,"parentId":0,"scrollX":1259.2727272727273,"scrollY":738.5454545454545},
 {"id":4,"expanded":true,"name":"LOCKERS","order":4,"parentId":0,"scrollX":1259.2727272727273,"scrollY":738.5454545454545},
-{"id":5,"expanded":false,"name":"JANITOR","order":5,"parentId":4,"scrollX":1259.2727272727273,"scrollY":738.5454545454545}
+{"id":5,"expanded":false,"name":"JANITOR","order":5,"parentId":4,"scrollX":1259.2727272727273,"scrollY":738.5454545454545},
+{"id":6,"expanded":false,"name":"HALLWAY1","order":6,"parentId":0,"scrollX":1259.2727272727273,"scrollY":738.5454545454545}
 ]
