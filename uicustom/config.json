@@ -78,5 +78,6 @@
   "actorImageCropX": 20,
   "actorImageScaleX": 0,
   "actorImageScaleY": 0,
-  "actorImageOffsetX": 0
+  "actorImageOffsetX": 0,
+  "previewGaugeColor": "regular"
 }

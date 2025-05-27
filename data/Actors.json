@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":5,"characterName":"Monster","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":20,"name":"Bazel","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":5,"characterName":"Monster","classId":1,"equips":[5,1,2,3,0],"faceIndex":5,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":20,"name":"Bazel","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":2,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":20,"name":"Eve","nickname":"","note":"","profile":""}
 ]
